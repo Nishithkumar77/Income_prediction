@@ -3,5 +3,5 @@ pandas
 seaborn
 sklearn
 xgboost
-pickel
+pickle
 streamlit
