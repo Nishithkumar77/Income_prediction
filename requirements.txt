@@ -1,8 +1,8 @@
 numpy
 pandas 
-matlplotlib
+matlplotlib.pyplot
 seaborn
 sklearn
 xgboost
-pickel
+pickle
 streamlit
