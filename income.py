@@ -1,3 +1,4 @@
+from logging import debug
 import os
 import numpy as np
 import streamlit
@@ -32,4 +33,6 @@ def result():
         else:
             prediction='Income less than or equal to 50K'
         return render_template("result.html",prediction=prediction)
-
+    
+if __name__ == '__main__': 
+    app.run(debug=True) 
