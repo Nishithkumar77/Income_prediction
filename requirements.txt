@@ -1,6 +1,5 @@
 numpy
 pandas 
-matlplotlib.pyplot
 seaborn
 sklearn
 xgboost
