@@ -4,4 +4,4 @@ seaborn
 sklearn
 xgboost
 streamlit
-Flask
+lightgbm
